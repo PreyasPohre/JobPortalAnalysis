@@ -1,0 +1,25 @@
+CompanyType,Batch Process Start Time,Batch Process End Time,Batch Name
+Type1,6:30,14:59,A
+Type2,6:00,15:29,A
+Type3,6:00,14:29,A
+Type4,6:00,15:29,A
+Type5,6:00,15:29,A
+Type6,6:00,14:29,A
+Type7,6:00,14:29,A
+Type8,6:00,14:29,A
+Type1,15:00,23:29,B
+Type2,15:30,23:59,B
+Type3,14:30,22:59,B
+Type4,15:30,23:59,B
+Type5,15:30,23:59,B
+Type6,14:30,22:59,B
+Type7,14:30,22:59,B
+Type8,14:30,22:59,B
+Type1,23:30,6:29,C
+Type2,0:00,5:59,C
+Type3,23:00,5:59,C
+Type4,0:00,5:59,C
+Type5,0:00,5:59,C
+Type6,23:00,5:59,C
+Type7,23:00,5:59,C
+Type8,23:00,5:59,C
